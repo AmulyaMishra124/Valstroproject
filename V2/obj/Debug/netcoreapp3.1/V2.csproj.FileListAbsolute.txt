@@ -1,0 +1,16 @@
+C:\Users\snmishra\Desktop\AmulyaTest\Valstro\V2\bin\Debug\netcoreapp3.1\V2.exe
+C:\Users\snmishra\Desktop\AmulyaTest\Valstro\V2\bin\Debug\netcoreapp3.1\V2.deps.json
+C:\Users\snmishra\Desktop\AmulyaTest\Valstro\V2\bin\Debug\netcoreapp3.1\V2.runtimeconfig.json
+C:\Users\snmishra\Desktop\AmulyaTest\Valstro\V2\bin\Debug\netcoreapp3.1\V2.runtimeconfig.dev.json
+C:\Users\snmishra\Desktop\AmulyaTest\Valstro\V2\bin\Debug\netcoreapp3.1\V2.dll
+C:\Users\snmishra\Desktop\AmulyaTest\Valstro\V2\bin\Debug\netcoreapp3.1\V2.pdb
+C:\Users\snmishra\Desktop\AmulyaTest\Valstro\V2\obj\Debug\netcoreapp3.1\V2.csproj.AssemblyReference.cache
+C:\Users\snmishra\Desktop\AmulyaTest\Valstro\V2\obj\Debug\netcoreapp3.1\V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snmishra\Desktop\AmulyaTest\Valstro\V2\obj\Debug\netcoreapp3.1\V2.AssemblyInfoInputs.cache
+C:\Users\snmishra\Desktop\AmulyaTest\Valstro\V2\obj\Debug\netcoreapp3.1\V2.AssemblyInfo.cs
+C:\Users\snmishra\Desktop\AmulyaTest\Valstro\V2\obj\Debug\netcoreapp3.1\V2.csproj.CoreCompileInputs.cache
+C:\Users\snmishra\Desktop\AmulyaTest\Valstro\V2\obj\Debug\netcoreapp3.1\V2.dll
+C:\Users\snmishra\Desktop\AmulyaTest\Valstro\V2\obj\Debug\netcoreapp3.1\V2.pdb
+C:\Users\snmishra\Desktop\AmulyaTest\Valstro\V2\obj\Debug\netcoreapp3.1\V2.genruntimeconfig.cache
+C:\Users\snmishra\Desktop\AmulyaTest\Valstro\V2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\snmishra\Desktop\AmulyaTest\Valstro\V2\obj\Debug\netcoreapp3.1\V2.csproj.CopyComplete
